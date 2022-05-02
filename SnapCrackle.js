@@ -22,6 +22,7 @@ function snapCrackle(maxValue){
             }
            return `${counter}`; 
 } 
+console.log(snapCrackle(20))
 
 
 
